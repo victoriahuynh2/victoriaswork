@@ -147,21 +147,21 @@
     .internal img {
         width: 50%;
         height: auto;
-        float: left;
-        padding: 0 5px 20px 5px;
+        float: right;
+        padding: 0 20px 20px 5px;
+    }
+
+    .internal img#de-full {
+        width: 70%;
+        height: auto;
     }
     
-    .de img {
+    /* .de img {
         float: right;
         width: 45%;
         height: auto;
         padding: 30px;
-    }
-
-    .internal#detail {
-        width: 100%;
-        height: auto;
-    }
+    } */
 
     .internal h1 a {
         color: black;
