@@ -49,6 +49,11 @@
         top: 0;
         left: 0;
     }
+
+    article video {
+        width: 100%;
+        height: auto;
+    }
     
     h1 {
         font-size: 6em;
@@ -142,6 +147,11 @@
     
     article.internal {
         background: transparent;
+    }
+
+    .internal video {
+        width: 700;
+        height: auto;
     }
 
     .internal img {
