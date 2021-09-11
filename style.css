@@ -264,8 +264,9 @@
             height: 20%;
             top: 75%;
             left: 30%;
-            background-color: #6D6D6D;
-            opacity: 50%;
+            /* background-color: #6D6D6D; */
+            background-color: aliceblue;
+            opacity: 80%;
             justify-content: left;
             padding-left: 20px;
         }
