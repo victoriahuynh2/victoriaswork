@@ -149,12 +149,13 @@
         height: auto;
         float: right;
         padding: 0 20px 50px 5px;
+        margin: 0;
     }
 
     .internal img#de-full {
         width: 95%;
         height: auto;
-        margin: 0 20px 10px;
+        margin: 0 20px 10px 0;
     }
     
     /* .de img {
