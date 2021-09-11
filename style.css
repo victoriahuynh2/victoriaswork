@@ -152,8 +152,9 @@
     }
 
     .internal img#de-full {
-        width: 70%;
+        width: 95%;
         height: auto;
+        margin: 0 20px 10px;
     }
     
     /* .de img {
@@ -203,6 +204,7 @@
     }
     
     .internal p {
+        /* margin: 0 0 30px 45px; */
         margin-bottom: 30px;
     }
     
