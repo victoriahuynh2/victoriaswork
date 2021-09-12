@@ -149,11 +149,6 @@
         background: transparent;
     }
 
-    .internal video {
-        width: 700;
-        height: auto;
-    }
-
     .internal img {
         width: 50%;
         height: auto;
