@@ -33,7 +33,7 @@ nav ul li a {
 }
 
 header, footer {
-    background-color: rgb(235, 235, 235);
+    background-color: rgba(198,161,220,0.5);
 }
 
 header, section, footer {
@@ -41,7 +41,7 @@ header, section, footer {
 }
 
 section:nth-child(even){
-    background-color: aliceblue;
+    background-color: rgba(176,224,137,0.5);
 }
 
 .container {
